@@ -1,0 +1,14 @@
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\bin\Debug\net8.0\task 2.exe
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\bin\Debug\net8.0\task 2.deps.json
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\bin\Debug\net8.0\task 2.runtimeconfig.json
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\bin\Debug\net8.0\task 2.dll
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\bin\Debug\net8.0\task 2.pdb
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.AssemblyInfoInputs.cache
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.AssemblyInfo.cs
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.csproj.CoreCompileInputs.cache
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.dll
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\refint\task 2.dll
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.pdb
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\task 2.genruntimeconfig.cache
+D:\eraa soft s 1\task sesstion 1\task 1\task 2\obj\Debug\net8.0\ref\task 2.dll
